@@ -116,6 +116,4 @@ MIT License. Open-source and free to use.
 
 ---
 
-## 👨‍💻 Made with ❤️ by [YourName]
-
-> Replace with your GitHub or portfolio link.# Codux
+## 👨‍💻 Made with ❤️ by Shashwat Pritish
